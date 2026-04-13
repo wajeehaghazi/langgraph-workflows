@@ -43,7 +43,10 @@ OPENAI_BASE_URL=https://api.chatanywhere.tech
 uv run python -m src.main
 
 **Select workflow:**
+
 1 - Sequential
+
 2 - Parallel
+
 3 - Router
 
