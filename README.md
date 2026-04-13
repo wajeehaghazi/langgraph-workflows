@@ -24,13 +24,19 @@ uv (recommended)
 
 **Setup**
 git clone https://github.com/wajeehaghazi/langgraph-workflows.git
+
 cd langgraph-workflows
+
 uv venv
+
 .venv\Scripts\activate
+
 uv sync
-**
-Create .env file:**
+
+**Create .env file:**
+
 OPENAI_API_KEY=your_api_key
+
 OPENAI_BASE_URL=https://api.chatanywhere.tech
 
 **Run the Project**
