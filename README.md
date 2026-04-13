@@ -1,4 +1,4 @@
-LangGraph Workflows Project
+**LangGraph Workflows Project**
 
 A modular implementation of LangGraph-based AI workflows demonstrating sequential processing, parallel execution, and dynamic routing using Large Language Models (LLMs). This project showcases core workflow orchestration patterns commonly used in modern AI systems.
 
